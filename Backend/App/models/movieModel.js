@@ -6,7 +6,7 @@ const Schema = new mongoose.Schema({
         required : true
     },
     genres : {
-        type : [String],   // 
+        type : [String],  
         required : true
     },
     actors : {
